@@ -1,0 +1,949 @@
+{
+ "name": "Base de datos II 2021",
+ "type": "private_group",
+ "id": 487588276,
+ "messages": [
+  {
+   "id": 3768,
+   "type": "service",
+   "date": "2021-08-09T15:35:12",
+   "actor": "Lucas Galdame Villegas",
+   "actor_id": "user1106773171",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3769,
+   "type": "service",
+   "date": "2021-08-09T15:35:59",
+   "actor": "Santi Moyano",
+   "actor_id": "user1133947710",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3770,
+   "type": "service",
+   "date": "2021-08-09T15:36:50",
+   "actor": "Jose Ruti",
+   "actor_id": "user1274646303",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3771,
+   "type": "service",
+   "date": "2021-08-09T15:36:57",
+   "actor": "Delfina Q",
+   "actor_id": "user991384208",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3772,
+   "type": "service",
+   "date": "2021-08-09T15:37:13",
+   "actor": "Enzo Fern",
+   "actor_id": "user1726569146",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3773,
+   "type": "service",
+   "date": "2021-08-09T15:38:24",
+   "actor": "Lucas Ollarce",
+   "actor_id": "user623280426",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3774,
+   "type": "service",
+   "date": "2021-08-09T15:39:00",
+   "actor": "Bruno Romero",
+   "actor_id": "user1133965522",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3775,
+   "type": "service",
+   "date": "2021-08-09T16:27:09",
+   "actor": "Santiago Martinez",
+   "actor_id": "user807010702",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3776,
+   "type": "service",
+   "date": "2021-08-09T16:28:36",
+   "actor": "Arian M",
+   "actor_id": "user597215828",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3777,
+   "type": "message",
+   "date": "2021-08-09T16:33:34",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Hola chicos! Arrancamos la clase ahora a las16:30"
+  },
+  {
+   "id": 3778,
+   "type": "service",
+   "date": "2021-08-09T16:35:01",
+   "actor": "Danilo Verardo",
+   "actor_id": "user1751340097",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3779,
+   "type": "service",
+   "date": "2021-08-09T16:37:36",
+   "actor": "Santiago Riera",
+   "actor_id": "user805229404",
+   "action": "invite_members",
+   "members": [
+    "Nicolás Olivares"
+   ],
+   "text": ""
+  },
+  {
+   "id": 3780,
+   "type": "message",
+   "date": "2021-08-09T16:38:09",
+   "from": "Ramiro Giandinoto",
+   "from_id": "user261745196",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://meet.google.com/ymv-bhzy-fhv"
+    }
+   ]
+  },
+  {
+   "id": 3781,
+   "type": "service",
+   "date": "2021-08-09T16:47:31",
+   "actor": "Julián",
+   "actor_id": "user784162152",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3782,
+   "type": "service",
+   "date": "2021-08-09T16:55:56",
+   "actor": "Douglas",
+   "actor_id": "user956019236",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3783,
+   "type": "service",
+   "date": "2021-08-09T17:24:41",
+   "actor": "Juampi Garcia",
+   "actor_id": "user793788846",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3784,
+   "type": "message",
+   "date": "2021-08-09T17:30:34",
+   "from": "Ramiro Giandinoto",
+   "from_id": "user261745196",
+   "text": "Avisen para crear grupo"
+  },
+  {
+   "id": 3785,
+   "type": "message",
+   "date": "2021-08-09T17:30:52",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Grupo:"
+    },
+    " Santiago Martinez, Facundo Luna, Sebastian Fernández"
+   ]
+  },
+  {
+   "id": 3786,
+   "type": "message",
+   "date": "2021-08-09T17:31:30",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": "Vamos juntos ramiro"
+  },
+  {
+   "id": 3787,
+   "type": "message",
+   "date": "2021-08-09T17:31:31",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": "?"
+  },
+  {
+   "id": 3788,
+   "type": "message",
+   "date": "2021-08-09T17:31:36",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Grupo: "
+    },
+    "Santiago Riera, Yago Maureira, Nicolás Olivares."
+   ]
+  },
+  {
+   "id": 3790,
+   "type": "service",
+   "date": "2021-08-09T17:32:04",
+   "actor": "Matias Quevedo",
+   "actor_id": "user867670922",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3791,
+   "type": "message",
+   "date": "2021-08-09T17:32:17",
+   "from": "Juampi Garcia",
+   "from_id": "user793788846",
+   "text": "Grupo: Juan Pablo Garcia, Martin Ezequiel Garcia"
+  },
+  {
+   "id": 3792,
+   "type": "service",
+   "date": "2021-08-09T17:33:22",
+   "actor": "Yago",
+   "actor_id": "user810386556",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3793,
+   "type": "service",
+   "date": "2021-08-09T17:33:28",
+   "actor": "Facu Luna",
+   "actor_id": "user672006577",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3794,
+   "type": "message",
+   "date": "2021-08-09T17:33:40",
+   "from": "Ramiro Giandinoto",
+   "from_id": "user261745196",
+   "text": "Fede Pardo, José Ruti, Matías Quevedo, Ramiro Giandinoto"
+  },
+  {
+   "id": 3795,
+   "type": "service",
+   "date": "2021-08-09T17:34:53",
+   "actor": "Lautaro G",
+   "actor_id": "user858971037",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3796,
+   "type": "message",
+   "date": "2021-08-09T17:36:48",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Alguno quedó sin grupo?"
+  },
+  {
+   "id": 3797,
+   "type": "message",
+   "date": "2021-08-09T17:36:51",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Grupo: giancarlo y lautaro"
+  },
+  {
+   "id": 3798,
+   "type": "message",
+   "date": "2021-08-09T17:37:47",
+   "edited": "2021-08-09T17:43:31",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Grupo: Lucas g\nGaldame, Gaston Fenske y Daniel Beato"
+  },
+  {
+   "id": 3799,
+   "type": "message",
+   "date": "2021-08-09T17:38:16",
+   "from": "Julián",
+   "from_id": "user784162152",
+   "text": "Grupo: Delfina Quinteros y Julián Navarrete"
+  },
+  {
+   "id": 3800,
+   "type": "message",
+   "date": "2021-08-09T17:38:18",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "reply_to_message_id": 3796,
+   "text": "Estamos con lucas ollarce por si queres ser con nosotros"
+  },
+  {
+   "id": 3801,
+   "type": "service",
+   "date": "2021-08-09T17:38:53",
+   "actor": "Facu Luna",
+   "actor_id": "user672006577",
+   "action": "invite_members",
+   "members": [
+    "Matias Navarro"
+   ],
+   "text": ""
+  },
+  {
+   "id": 3802,
+   "type": "message",
+   "date": "2021-08-09T17:40:43",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "reply_to_message_id": 3800,
+   "text": "Bueno"
+  },
+  {
+   "id": 3803,
+   "type": "message",
+   "date": "2021-08-09T17:41:08",
+   "from": "Delfina Q",
+   "from_id": "user991384208",
+   "reply_to_message_id": 3799,
+   "text": "si alguien todavia no tiene grupo puede ser con nosotros"
+  },
+  {
+   "id": 3804,
+   "type": "message",
+   "date": "2021-08-09T17:41:35",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Grupo: Emiliano, Lucas Ollarce, Augusto"
+  },
+  {
+   "id": 3805,
+   "type": "message",
+   "date": "2021-08-09T17:43:12",
+   "from": "Danilo Verardo",
+   "from_id": "user1751340097",
+   "text": "Grupo: Arenas Douglas, Fernández Enzo, Cerna Verardo Danilo"
+  },
+  {
+   "id": 3806,
+   "type": "message",
+   "date": "2021-08-09T17:43:49",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 3798,
+   "text": "Profe sume a gaston"
+  },
+  {
+   "id": 3807,
+   "type": "message",
+   "date": "2021-08-09T17:44:10",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Grupo: Bruno Romero, Santiago Moyano"
+  },
+  {
+   "id": 3808,
+   "type": "service",
+   "date": "2021-08-09T17:45:04",
+   "actor": "Eze Garcia",
+   "actor_id": "user1264815356",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3809,
+   "type": "message",
+   "date": "2021-08-09T17:45:15",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 3806,
+   "text": "Fenske"
+  },
+  {
+   "id": 3810,
+   "type": "message",
+   "date": "2021-08-09T17:48:53",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "reply_to_message_id": 3805,
+   "text": "Profe este grupo lo puso?"
+  },
+  {
+   "id": 3811,
+   "type": "message",
+   "date": "2021-08-09T17:53:20",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Usuario github: AndreaNavarroMoreno"
+  },
+  {
+   "id": 3812,
+   "type": "message",
+   "date": "2021-08-09T17:53:46",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Usuario gitlab: andrea.navarro"
+  },
+  {
+   "id": 3813,
+   "type": "message",
+   "date": "2021-08-09T17:57:08",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "reply_to_message_id": 3794,
+   "text": "."
+  },
+  {
+   "id": 3814,
+   "type": "service",
+   "date": "2021-08-09T18:01:27",
+   "actor": "Gianca",
+   "actor_id": "user1009916191",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3860,
+   "type": "message",
+   "date": "2021-08-30T18:15:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "chicos por favor pasen a este enlace Clases DBDII 2021\nLunes, 30 de agosto · 6:30 – 8:30pm\nInformación para unirse a Google Meet\nEnlace a la videollamada: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/sis-mthu-zkk"
+    },
+    "\nO marca el:  (US) +1 ",
+    {
+     "type": "phone",
+     "text": "413-685-2636"
+    },
+    "  PIN:  308 245 832 #"
+   ]
+  },
+  {
+   "id": 3861,
+   "type": "service",
+   "date": "2021-08-30T18:26:55",
+   "actor": "Marcos Adrián Rugoso",
+   "actor_id": "user1052727325",
+   "action": "remove_members",
+   "members": [
+    "Marcos Adrián Rugoso"
+   ],
+   "text": ""
+  },
+  {
+   "id": 3872,
+   "type": "message",
+   "date": "2021-09-06T09:58:18",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados alumnos,  el cuestionario sobre datawarehouse lo paso al lunes después de las mesas (20/09/2021)"
+  },
+  {
+   "id": 3873,
+   "type": "message",
+   "date": "2021-09-06T10:13:38",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "Genial profe"
+  },
+  {
+   "id": 3874,
+   "type": "message",
+   "date": "2021-09-06T12:44:15",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Bueno profe"
+  },
+  {
+   "id": 3875,
+   "type": "message",
+   "date": "2021-09-06T15:09:05",
+   "from": "Ramiro Giandinoto",
+   "from_id": "user261745196",
+   "text": "Gravias Profe"
+  },
+  {
+   "id": 3876,
+   "type": "message",
+   "date": "2021-09-06T18:08:51",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  18:30 iniciamos el meet"
+  },
+  {
+   "id": 3877,
+   "type": "message",
+   "date": "2021-09-06T18:09:01",
+   "from": "Gianca",
+   "from_id": "user1009916191",
+   "reply_to_message_id": 3876,
+   "text": "perfecto"
+  },
+  {
+   "id": 3878,
+   "type": "message",
+   "date": "2021-09-06T18:19:03",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "mismo link del otro dia??"
+  },
+  {
+   "id": 3879,
+   "type": "message",
+   "date": "2021-09-06T18:33:23",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Correcto, mismo link"
+  },
+  {
+   "id": 3880,
+   "type": "message",
+   "date": "2021-09-06T18:37:41",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.martinez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3881,
+   "type": "message",
+   "date": "2021-09-06T18:37:51",
+   "from": "Gianca",
+   "from_id": "user1009916191",
+   "text": [
+    {
+     "type": "email",
+     "text": "g.galvarini@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3882,
+   "type": "message",
+   "date": "2021-09-06T18:37:55",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": [
+    {
+     "type": "email",
+     "text": "b.romero@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3883,
+   "type": "message",
+   "date": "2021-09-06T18:38:00",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.fernandez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3884,
+   "type": "message",
+   "date": "2021-09-06T18:38:10",
+   "from": "Delfina Q",
+   "from_id": "user991384208",
+   "text": [
+    {
+     "type": "email",
+     "text": "de.quinteros@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3885,
+   "type": "message",
+   "date": "2021-09-06T18:38:10",
+   "from": "Ramiro Giandinoto",
+   "from_id": "user261745196",
+   "text": [
+    {
+     "type": "email",
+     "text": "r.giandinoto@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3886,
+   "type": "message",
+   "date": "2021-09-06T18:38:16",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": [
+    {
+     "type": "email",
+     "text": "d.beato@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3887,
+   "type": "message",
+   "date": "2021-09-06T18:38:20",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": [
+    {
+     "type": "email",
+     "text": "l.galdame@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3888,
+   "type": "message",
+   "date": "2021-09-06T18:38:21",
+   "from": "Matias Quevedo",
+   "from_id": "user867670922",
+   "text": [
+    {
+     "type": "email",
+     "text": "m.quevedo@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3889,
+   "type": "message",
+   "date": "2021-09-06T18:38:29",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.riera@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3890,
+   "type": "message",
+   "date": "2021-09-06T18:38:30",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": [
+    {
+     "type": "email",
+     "text": "fl.gimenez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3891,
+   "type": "message",
+   "date": "2021-09-06T18:38:35",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": [
+    {
+     "type": "email",
+     "text": "y.maureira@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3892,
+   "type": "message",
+   "date": "2021-09-06T18:38:52",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.moyano@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3893,
+   "type": "message",
+   "date": "2021-09-06T18:39:01",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": [
+    {
+     "type": "email",
+     "text": "l.ollarce@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3894,
+   "type": "message",
+   "date": "2021-09-06T18:39:22",
+   "from": "Julián",
+   "from_id": "user784162152",
+   "text": [
+    {
+     "type": "email",
+     "text": "j.navarrete@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3895,
+   "type": "message",
+   "date": "2021-09-06T18:39:50",
+   "edited": "2021-09-06T18:42:40",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": [
+    {
+     "type": "email",
+     "text": "n.olivares@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3901,
+   "type": "message",
+   "date": "2021-09-06T18:42:57",
+   "from": "Jose Ruti",
+   "from_id": "user1274646303",
+   "text": [
+    {
+     "type": "email",
+     "text": "j.ruti@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3902,
+   "type": "message",
+   "date": "2021-09-06T19:04:47",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": [
+    {
+     "type": "email",
+     "text": "f.pardo@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3904,
+   "type": "message",
+   "date": "2021-09-06T19:05:12",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": [
+    {
+     "type": "email",
+     "text": "d.arenas@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3905,
+   "type": "message",
+   "date": "2021-09-06T19:05:49",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "email",
+     "text": "a.misino@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3906,
+   "type": "message",
+   "date": "2021-09-06T19:07:12",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": [
+    {
+     "type": "email",
+     "text": "e.munoz@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3908,
+   "type": "message",
+   "date": "2021-09-06T19:07:21",
+   "from": "Enzo Fern",
+   "from_id": "user1726569146",
+   "text": [
+    {
+     "type": "email",
+     "text": "evm.fernandez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3909,
+   "type": "message",
+   "date": "2021-09-06T19:09:07",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": [
+    {
+     "type": "email",
+     "text": "f.luna@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 3917,
+   "type": "message",
+   "date": "2021-09-18T18:41:55",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Profe, buenas tardes"
+  },
+  {
+   "id": 3918,
+   "type": "message",
+   "date": "2021-09-18T18:42:21",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ha subido las grabaciones de las primeras clases? Porque no me figuran en el Deive"
+  },
+  {
+   "id": 3919,
+   "type": "message",
+   "date": "2021-09-18T18:43:05",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "(Profe Gabriel Arenas)"
+  },
+  {
+   "id": 3920,
+   "type": "message",
+   "date": "2021-09-18T18:44:15",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Drive*"
+  },
+  {
+   "id": 3921,
+   "type": "message",
+   "date": "2021-09-19T19:48:38",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  el cuestionario no lo hacemos mañana,  les voy a dar un trabajo,  que tendrá fecha de presentación el lunes 27/09 hasta las 23:59 hs."
+  },
+  {
+   "id": 3922,
+   "type": "message",
+   "date": "2021-09-19T19:54:37",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "buenisimo profe gracias!!"
+  },
+  {
+   "id": 3923,
+   "type": "message",
+   "date": "2021-09-19T20:27:59",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ok profe 👍🏻"
+  },
+  {
+   "id": 3930,
+   "type": "message",
+   "date": "2021-09-20T18:15:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  arrancamos meet a las 19 hs,  tengo que resolver un problema técnico con mysql"
+  },
+  {
+   "id": 3931,
+   "type": "message",
+   "date": "2021-09-20T18:25:43",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/x-ipynb+json",
+   "text": ""
+  },
+  {
+   "id": 3932,
+   "type": "message",
+   "date": "2021-09-20T18:56:08",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estoy actualizando mysql a la versión 8.0.26  ya que he tenido problemas con el mysql connector/Net que no está en 64 bits para bajar (solo en 32 bits)"
+  },
+  {
+   "id": 3938,
+   "type": "message",
+   "date": "2021-09-27T18:11:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  buenas tardes,  arrancamos el meet a las 19 hs"
+  },
+  {
+   "id": 3939,
+   "type": "message",
+   "date": "2021-09-27T18:12:17",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Hola profe, ok"
+  },
+  {
+   "id": 3940,
+   "type": "message",
+   "date": "2021-09-27T18:13:25",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Hola profe nos vemos a las 19"
+  }
+ ]
+}
