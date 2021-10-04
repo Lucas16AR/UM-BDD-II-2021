@@ -1,0 +1,1709 @@
+{
+ "name": "UM-Diseño Base Datos I 2020",
+ "type": "private_supergroup",
+ "id": 1357819116,
+ "messages": [
+  {
+   "id": 3,
+   "type": "service",
+   "date": "2020-03-27T20:33:34",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Lucas Galdame Villegas"
+   ],
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2020-03-29T00:31:36",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Dani Tato"
+   ],
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "service",
+   "date": "2020-03-30T17:25:38",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Gaston"
+   ],
+   "text": ""
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2020-04-03T19:31:31",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Diez minutos y seguimos a las 19:49"
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2020-04-03T19:31:41",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "19:40"
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2020-04-03T20:24:43",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "El trabajo práctico tendrá fecha límite de presentación para el 17/04  les pido me hagan llegar las dudas por este medio"
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2020-04-16T21:13:48",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "contact_information": {
+    "first_name": "Duglas",
+    "last_name": "",
+    "phone_number": "+54 2604275279"
+   },
+   "text": ""
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2020-04-16T21:14:02",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "contact_information": {
+    "first_name": "Eze",
+    "last_name": "García UM",
+    "phone_number": "+54 2625432512"
+   },
+   "text": ""
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2020-04-16T21:14:30",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": "Profe son compañeros para agregar al grupo"
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2020-04-16T21:14:51",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "contact_information": {
+    "first_name": "Matias UM",
+    "last_name": "",
+    "phone_number": "+54 2604302340"
+   },
+   "text": ""
+  },
+  {
+   "id": 13,
+   "type": "service",
+   "date": "2020-04-16T21:26:18",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Douglas"
+   ],
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "service",
+   "date": "2020-04-16T21:28:02",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Eze Garcia"
+   ],
+   "text": ""
+  },
+  {
+   "id": 15,
+   "type": "service",
+   "date": "2020-04-16T21:28:45",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Mati Vilches"
+   ],
+   "text": ""
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2020-04-16T21:30:10",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados, el TP lo vamos a reprogramar para el próximo viernes 24/03"
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2020-04-16T21:31:58",
+   "from": "Mati Vilches",
+   "from_id": "user1214952617",
+   "text": "👍👍"
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2020-04-16T22:23:11",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Perfecto"
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2020-04-17T16:33:28",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados, buenas tardes,  hacemos el primer zoom a las 17:30 hs los espero a todos"
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2020-04-17T17:32:28",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Profe, como es la contraseña para entrar a la reunión?"
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2020-04-17T17:33:02",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "La clave para ingresar a las reuniones de hoy va a ser 73715486"
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2020-04-17T17:33:41",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Buenisimo, muchas gracias 👍"
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2020-04-17T17:36:17",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "profe ya empezo la clase?"
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2020-04-17T17:36:39",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "No estoy esperando que se conecten"
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2020-04-17T17:41:30",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Arrancamos"
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2020-04-17T17:43:24",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Profe no puedo entrar con la id nueva"
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2020-04-17T18:15:53",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  el ID de reunión,  siempre es el mismo, lo que vamos a cambiar es la clave.  Hoy esa clave es 73715486"
+  },
+  {
+   "id": 28,
+   "type": "service",
+   "date": "2020-04-17T18:18:32",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Delfina Q"
+   ],
+   "text": ""
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2020-04-17T18:24:31",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2020-04-17T19:04:09",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos 19:15"
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2020-04-17T19:15:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2020-04-17T19:31:28",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Se me cortó,  seguimos en cinco mi"
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2020-04-17T19:37:32",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Me está funcionando pésimo internet"
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2020-04-17T19:46:15",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Se cortó otra vez"
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2020-04-17T19:47:04",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Reinicie el router"
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2020-04-17T19:47:49",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Si,  hago una pausa de diez min y reinicio router"
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2020-04-17T19:51:33",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Tengo dos clases más que dependen del router,  normalmente va bien,  pero hoy está pésimo.  Tengo 10Mb por fibra,  debiera ir jamón, pero bue,   espero camine bien"
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2020-04-17T19:52:32",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Tiene fibra óptica?"
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2020-04-17T19:52:50",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Sip"
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2020-04-17T19:53:41",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Debería llamar a su proveedor"
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2020-04-17T19:54:07",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Es lo que estoy haciendo"
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2020-04-17T19:54:09",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Creo que sería lo mejor, no le tendría que estar pasando eso"
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2020-04-17T19:55:28",
+   "from": "Mati Vilches",
+   "from_id": "user1214952617",
+   "text": "Yo tengo ctc y me anda pesimo, no puedo descargar nada, no puedo ver un video ni siquiera en 480.. Un desastre."
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2020-04-17T19:56:26",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Y algunos que salen de la Facultad trabajan ahí"
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2020-04-17T19:57:56",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Eso demuestra la calidad xD"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2020-04-17T19:58:01",
+   "from": "Mati Vilches",
+   "from_id": "user1214952617",
+   "text": "El problema es que todos los sistemas de Internet, comunicación etc están saturados de tanta gente que los usa"
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2020-04-17T20:02:33",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Si me dicen que están colapsadas las redes, arrancamos, tenemos el router reiniciado"
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2020-04-17T20:04:14",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2020-04-17T20:43:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2020-04-17T20:50:37",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "No se escucha"
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2020-04-17T20:51:04",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Se está cortando"
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2020-04-20T13:13:18",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estaba planteando hacer una encuesta entre ustedes,  de todos modos les pregunto primero: \n1- ¿ cuáles son los problemas concretos que han tenido con zoom?\n2- ¿ qué proponen usar y porqué?\n3- ¿ saben cuales son los problemas de zoom ?\n4- ¿ saben cuáles son los problemas de meet?\n5- ¿qué versión de zoom usan?\n6- ¿usan notebook o móvil?"
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2020-04-20T13:14:04",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Por favor les pido que me responda cada uno."
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2020-04-20T13:15:01",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "1_ Ninguno"
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2020-04-20T13:15:44",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "2_ meet porque no tiene tiempo limite"
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2020-04-20T13:15:56",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "3_ no"
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2020-04-20T13:16:06",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "4_ no"
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2020-04-20T13:16:29",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "6_ móvil"
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2020-04-20T13:17:02",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "1) ninguno\n2) meet de google porque no tiene límite\n3) no\n4) no\n5) la ultima \n6) móvil y pc"
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2020-04-20T13:19:42",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "1- ninguno \n2- Meet ya que no tiene límite de tiempo y no hay necesidad de volver entrar de vuelta \n3- problemas de seguridad \n4-no lo se\n5- última versión\n6-notebook"
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2020-04-20T13:20:08",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": "1_ ninguno hasta ahora \n2_ por que meet ofrece tiempo ilimitado \n3_  he escuchado que zoom ha tenido problemas por el robo de  información del usuario, además de otros problemas.\n4_ no\n5_ la ultima versión \n6_ noteboook"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2020-04-20T14:00:29",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": "1. Por ahora ninguno.\n2. Meet, no tiene limite de tiempo y la UM tiene la versión de pago.\n3. No tiene cifrado de extremo a extremo, enviaba datos a facebook, hay zoombombing (se menten a las reuniones y comparten mensajes racistas o pornografía), en algunos casos puede permitir a terceros tomar el control de la cámara, el micrófono y aveces acceso completo al sistema.\n4. Por ahora no se de ninguno.\n5. V 3.5.385850.0413.\n6. Con zoom solo notebook, con meet ambos."
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2020-04-20T14:11:37",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Les comento que la última versión de zoom es la 4.6.10 (20033.0407) esa es la que deberían usar.  Siempre,  se deben usar las últimas versiones."
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2020-04-20T14:12:12",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": "Yo tengo la última para Linux"
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2020-04-20T14:45:24",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  de ninguna manera quiero imponer el uso de una herramienta,  pero les paso esta info para que esté al tanto de lo que es hoy zoom.\nDe la respuesta que todos den sacaremos la desición de qué utilizar.  Solo les pido que lean lo que les paso,  está sacado de la página y blog de zoom"
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2020-04-20T14:45:34",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1114,
+   "height": 425,
+   "text": ""
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2020-04-20T14:45:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2020-04-20T23:45:41",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 65,
+   "text": "En mi humilde opinión, zoom no me parece una mala aplicación, pero se me hace mas cómodo Meet, ya que con ese no le damos muchas vueltas a la clases, además de que con el correo de la UM tenemos la versión de pago y tendríamos clases con tiempo ilimitado"
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2020-04-21T10:30:43",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "Claro profe, el tema de meet es que no tenemos que andar cortando la clase, aparte me han llegado comentarios de la universidad de Congreso de qie varias veces le han hackeado la clase"
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2020-04-21T10:49:28",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "De ultima, haga una encuesta y de ahí vemos en que plataforma hacemos la clase, si les parece."
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2020-04-21T10:52:08",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": "A mí zoom me sigue pareciendo una aplicación insegura y ya que la facultad nos da una herramienta para usar elegiría meet pero podríamos hacer una encuesta como dice Lucas"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2020-04-21T10:54:32",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  les he pedido que opinen todos,  no tengo problemas de cambiar la herramienta,  es más la próxima clase la hacemos con meet.\nSolo quiero que tomen conciencia del porqué,  eso es todo."
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2020-04-24T15:41:36",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  buenas tardes,  arrancamos meet 17:30 hs"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2020-04-24T17:31:27",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "y el link??"
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2020-04-24T17:35:08",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Este es el link de Meet"
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2020-04-24T17:35:11",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Para unirte a la videollamada, haz clic en este enlace: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/fuf-vsgx-djx"
+    },
+    "\nSi quieres unirte por teléfono, llama al +1 ",
+    {
+     "type": "phone",
+     "text": "240-745-6515"
+    },
+    " e introduce este PIN: 516 285 550#"
+   ]
+  },
+  {
+   "id": 77,
+   "type": "service",
+   "date": "2020-04-24T17:45:53",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Jose Ruti"
+   ],
+   "text": ""
+  },
+  {
+   "id": 78,
+   "type": "service",
+   "date": "2020-04-24T17:48:09",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": ""
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2020-04-24T19:34:00",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2020-04-24T19:38:27",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "No se escucha"
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2020-04-24T19:40:12",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "reinicio el meet"
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2020-04-28T00:16:47",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Profe, como el Viernes es 1° de Mayo, quisiera saber si ese dia es feriado para usted y nosotros?.. y por las dudas no tendriamos clases"
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2020-04-28T00:20:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Si,  correcto es feriado,  vamos a resolver práctica hasta la próxima clase,  esta mañana estuvo colgado moodle y no pude subir los doc.  Mañana les dejo los prácticos"
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2020-04-28T00:22:36",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Perfecto, gracias entonces!!! Buena semana"
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2020-05-08T13:27:07",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  esta tarde arrancamos meet a las 17:40 aprox  y nos extenderemos hasta 21:40 aprox."
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2020-05-08T13:27:28",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Bueno"
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2020-05-08T13:31:40",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Ok"
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2020-05-08T13:41:55",
+   "from": "Delfina Q",
+   "from_id": "user991384208",
+   "text": "ok"
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2020-05-08T13:45:01",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "👍👍"
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2020-05-08T13:45:10",
+   "from": "Mati Vilches",
+   "from_id": "user1214952617",
+   "text": "👍👍"
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2020-05-08T17:36:34",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "el link del meet es el mismo que el de la otra vez??"
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2020-05-08T17:37:21",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Sale cs..."
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2020-05-08T17:37:53",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "En minutos se los confirmo"
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2020-05-08T17:45:35",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "esta es la direccion del meet"
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2020-05-08T17:45:41",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Para unirte a la videollamada, haz clic en este enlace: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/uqn-yefp-ddf"
+    },
+    "\nSi quieres unirte por teléfono, llama al +1 ",
+    {
+     "type": "phone",
+     "text": "574-404-3570"
+    },
+    " e introduce este PIN: 760 785 126#"
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2020-05-08T20:12:49",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "seguimos"
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2020-05-15T14:14:06",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  arrancamos meet a las 17 hs hasta las 21 hs."
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2020-05-15T14:14:32",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": "Perfecto"
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2020-05-15T14:15:25",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Listo profe 👍"
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2020-05-15T17:02:40",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Profe, no me deja ingresar a la reunión. Se queda en \"solicitando unirse\""
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2020-05-15T17:03:02",
+   "from": "Jose Ruti",
+   "from_id": "user1274646303",
+   "text": "Tenés que entrar con el mail de la facu"
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2020-05-15T17:04:03",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "les paso el link:  ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/edo-daoi-rog"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2020-05-15T17:04:35",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Buenísimo ahí pude, gracias 👍"
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2020-05-29T13:33:25",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  esta tarde meet a partir de las 17:30 hasta 21:30 - cerca del horario paso el link"
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2020-05-29T14:04:21",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Entendido profe 👍👍"
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2020-05-29T17:26:19",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos, buenas tardes,  tengo muy inestable internet,  estoy averiguando qué sucede"
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2020-05-29T17:42:18",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "mi internet anda mal tambien, la bajada es mala"
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2020-05-29T17:53:38",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Tengo que cortar 5 min el modem"
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2020-05-29T18:11:45",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Vemos de hacer meet a las 18:30,  les voy a dejar tarea en la catedra virtual si no podemos conectarnos"
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2020-05-29T18:32:39",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  imposible conectarme,  les dejo apuntes y ejercicios de MER - DER y Normalización.  Me consultan por favor por aca dudas. La semana que viene acordamos un horario extra miercoles o jueves de tarde y vemos la teoría"
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2020-05-29T18:34:39",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "no hay ningun problema profe, a todos nos pasa"
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2020-05-29T18:35:06",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "gracias igual, buen finde!!"
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2020-05-29T18:35:43",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "estamos en contacto"
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2020-05-29T18:35:58",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hice reclamo y me dicen que está saturada la red,  buen fin de semana"
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2020-05-29T18:36:30",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "tiene ctc??"
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2020-05-29T18:36:58",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Si,  y pendiente de actualizar"
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2020-06-05T11:30:32",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buen día chicos,  esta tarde hacemos meet desde las 17 hs hasta 21 hs.  Les paso link cerca del horario"
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2020-06-05T11:31:53",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "👍"
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2020-06-05T11:37:15",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "👍"
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2020-06-05T17:00:32",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes,  les paso el link de la reunión"
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2020-06-05T17:00:35",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Para unirte a la videollamada, haz clic en este enlace: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/gnx-nwdf-xsx"
+    },
+    "\nSi quieres unirte por teléfono, llama al +1 ",
+    {
+     "type": "phone",
+     "text": "417-355-8548"
+    },
+    " e introduce este PIN: 459 309 210#"
+   ]
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2020-06-05T18:20:51",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Seguimos"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2020-06-09T18:51:13",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  buenas tardes,  mañana a partir de las 13 hs estará disponible el practico 02.  Les voy a dejar las consignas en el documento."
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2020-06-09T18:52:05",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2020-06-09T18:52:06",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": "perfecto profe!"
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2020-06-10T14:38:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  buenas tardes,  a las 17 hs subo el TP 2,  es para resolver a libro abierto.  Les pido hagan el esfuerzo de resolverlo personalmente.  Pueden usar el mismo archivo para hacer la devolución.  No olviden colocar sus nombres en el encabezado del mismo.\n\nPara la clase del viernes tengan instalado Pycharm community,  ya que vamos a programar en python y acceder a mysql.\n\nYa les paso el link para descargar pycharm."
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2020-06-10T14:39:38",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "bueno profe"
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2020-06-10T14:39:51",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "cuanto tenemos para resolverlo??"
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2020-06-10T14:41:19",
+   "from": "Jose Ruti",
+   "from_id": "user1274646303",
+   "text": "Y hasta cuándo ?"
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2020-06-10T14:44:33",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "El tp02 entrega 17/06 (fecha límite)."
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2020-06-10T14:45:31",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "bien entonces, porque estabamos complicados esta semana mas que nunca"
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2020-06-10T14:45:34",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Link de descarga Pycharm community:\n\n",
+    {
+     "type": "link",
+     "text": "https://www.jetbrains.com/pycharm/download/#section=windows"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2020-06-10T14:47:49",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "eso lo tenemos casi todos porque lo usabamos el año pasado en informatica y este en año en computacion"
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2020-06-10T14:49:03",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Perfecto,  asegurense entonces de tener un python actualizado al menos 3.7.7 o 3.8"
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2020-06-10T15:27:02",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Porque profe debe ser en esas versiones, le pregunto porque lo actualice ya que tenía un python 3.7.5 ??"
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2020-06-10T15:37:13",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "La actualización de python es para que todos tengamos el mismo data base access,  difieren un poco entre versiones y nos podemos encontrar que no podemos hacer alguna de las actividades. El conector para mysql (pymysql) varia sobre todo de la versión 3.5 y anteriores"
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2020-06-10T15:38:45",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "okey entendido gracias por la aclaracion 👍🏻"
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2020-06-10T17:30:29",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Ya está disponible el tp 02 en la cátedra virtual."
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2020-06-10T17:35:08",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "👍"
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2020-06-12T13:29:29",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenos días, estimados alumnos, esta tarde nos reunimos por meet a partir de las 17:30,  les paso link por esta vía cerca de la hora de comienzo"
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2020-06-12T13:42:51",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "Perfecto👍"
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2020-06-12T14:06:46",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Ok"
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2020-06-12T17:39:05",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "chicos este es el link"
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2020-06-12T17:39:08",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Para unirte a la videollamada, haz clic en este enlace: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/qvd-xjjx-eih"
+    },
+    "\nSi quieres unirte por teléfono, llama al +1 ",
+    {
+     "type": "phone",
+     "text": "315-710-5023"
+    },
+    " e introduce este PIN: 406 366 050#"
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2020-06-12T17:56:01",
+   "from": "Jose Ruti",
+   "from_id": "user1274646303",
+   "text": "Profe me puede aceptar unirme"
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2020-06-19T14:22:59",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  buenas tardes,  arrancamos meet esta tarde 18:00 hs. Les paso el link cerca de la hora de inicio."
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2020-06-19T14:23:34",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Oka"
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2020-06-19T14:24:06",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Buenisimo 👍"
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2020-06-19T18:10:45",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  este es el link del meet"
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2020-06-19T18:10:51",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Para unirte a la videollamada, haz clic en este enlace: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/ncg-giiy-iou"
+    },
+    "\nSi quieres unirte por teléfono, llama al +1 ",
+    {
+     "type": "phone",
+     "text": "260-230-1226"
+    },
+    " e introduce este PIN: 592 971 036#"
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2020-06-19T18:41:12",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Trabajo 2: Lucas, Douglas, Santiago, Bruno, Gaston"
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2020-06-19T18:42:54",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Lucas Galdame"
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2020-06-19T18:46:12",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "Trabajo 3: Danilo Cerna, Jose Ruti, Delfina Quintero, Daniel Beato"
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2020-06-19T18:50:07",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Trabajo 2: Lucas Galdame, Douglas Arenas, Santiago Moyano, Bruno Romero y Gastón Fenske"
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2020-06-19T19:03:46",
+   "from": "Mati Vilches",
+   "from_id": "user1214952617",
+   "text": "Trabajo 1: Jerónimo Rivero, Gabriel López, Enzo Fernández, Ezequiel García, Matías Vilches Bru."
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2020-06-19T19:40:58",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "El trabajo 4 se refiere al control de los alquileres de un complejo de cabañas,  en un rato les estoy subiendo los enunciados."
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2020-06-19T19:41:56",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Ok profe gracias"
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2020-06-19T21:08:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos el TP 2 les habilité  la presentación hasta mañana a las 23:59"
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2020-06-19T21:09:13",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "text": "genial profe, muchas graciass"
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2020-06-19T21:09:22",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "MARAVILLOSA JUGADA!!"
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2020-06-29T23:04:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas noches chicos,  ya están el trabajo integrador y los apuntes correspondientes.   Les pido que me informen si necesitan más tiempo me lo informen durante esta semana.  También,  les pido me confirmen los integrantes de cada grupo (y no olviden consignar sus nombres completos en el documento que presenten.)  Mañana les dejo los links de las clases."
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2020-07-03T19:56:37",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Profe, ha puesto como fecha de entrega el 7, y nos dijo que podiamos hasta el 10, nos podria dar hasta esa fecha por favor."
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2020-07-03T19:57:41",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "reply_to_message_id": 162,
+   "text": "Claro profe, supuestamente teníamos hasta el proximo viernes para la entrega"
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2020-07-03T19:58:20",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 161,
+   "text": "Grupo Ejer. 2: Lucas Galdame, Bruno Romero, Gaston Fenske, Santiago Moyano y Douglas Arenas"
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2020-07-03T19:58:26",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  ponemos la fecha para el 10"
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2020-07-03T19:58:58",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "No hay problema"
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2020-07-03T19:59:14",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Perfecto gracias!! Buen finde y cualquier duda le preguntamos en el trascurso de la semana"
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2020-07-03T20:00:01",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "No duden en consultar,  buen fin de semana!"
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2020-07-06T12:32:19",
+   "from": "Dani Tato",
+   "from_id": "user1077377295",
+   "reply_to_message_id": 161,
+   "text": "Trabajo 3: Danilo Cerna, Jose Ruti, Delfina Quintero, Daniel Beato"
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2020-07-07T20:33:47",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  les habilité la entrega hasta el 11 a las 23:59 hs.  Les voy a pasar las correcciones de los trabajos anteriores,  mañana."
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2020-07-07T20:34:34",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Buenisimo profe gracias"
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2020-07-07T20:34:45",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "buenisimo profe,"
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2020-07-07T20:35:00",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "gracias!!!"
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2020-07-14T11:01:30",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "buenas tardes estimados alumnos,  debido a que estuvo inhabilitada la pagina durante el fin de semana,  quedó la entrega del trabajo hasta esta noche a las 23:59.  Les pido que aquellos que no entregaron todavia el TPN1 lo hagan a la brevedad a fin de poder cerrar esta semana las regularidades.  No duden en realizar la consultas que necesiten.  Esta tarde les empezo a hacer las devoluciones de los TP.  Cordial saludo"
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2020-07-14T11:03:52",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Genial gracias!!"
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2020-07-16T21:24:25",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Buenas Profe, las notas nuestras cuando las veremos??"
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2020-07-17T21:24:01",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🕸",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2020-07-17T21:25:07",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Para mañana les paso notas!!!"
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2020-07-17T21:25:22",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "😂"
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2020-07-17T22:10:22",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2020-07-22T18:29:59",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Profe, estamos regularizados o no?? Y si lo estamos, como se rinde el final y que toma??"
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2020-07-23T19:45:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  por favor, le avisan a Daniel Cerna y Ollarce Lucas que no han subido el  TP1"
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2020-07-23T20:05:39",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Es Danilo Cerna, pero se entendió el mensaje"
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2020-07-23T20:06:31",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Ok"
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2020-07-23T20:06:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Tengo mal en la planilla de notas"
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2020-07-23T23:39:18",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Falta la entrega el Trabajo Integrador del Grupo 1 (Fernandez Enzo,  García Martín,  Lopez Gabriel,  Riveros Jerónimo y Vilches Matías.)"
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2020-07-23T23:40:41",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Mañana paso a secretaría,  las notas que tengo,  los trabajos pendientes,  paso nota la semana que viene."
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2020-07-23T23:41:59",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Ok gracias!"
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2020-07-23T23:45:32",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados,  los que queden regulares,  están en condiciones de rendir,  el examen final es semejante el trabajo integrador final,  la teoría está desarrollada en los apuntes más los capítulos iniciales del libro utilizado y que está disponible en la cátedra.  De todos modos,  para los que vayan a rendir se hace una charla informativa por meet la semana que viene,  posiblemente martes por la mañana."
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2020-07-23T23:46:23",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Ok profe muchas gracias 👍"
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2020-07-24T20:28:25",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  ya están pasadas las notas a secretaría.  Por favor,  los que deben trabajos,  tienen hasta el viernes (31/07) de  la semana que viene como última fecha para ponerse al día.  Las notas finales se las he pasado en los comentarios al trabajo final integrador.  Si tienen consultas o dudas,  utilicemos este medio.  Que tengan  buen fin de semana."
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2020-07-24T20:29:18",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": "Buenísimo profe gracias!"
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2020-07-24T20:29:44",
+   "from": "Lucas Galdame Villegas",
+   "from_id": "user1106773171",
+   "text": "Gracias profe!!"
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2020-07-24T20:30:00",
+   "from": "Delfina Q",
+   "from_id": "user991384208",
+   "text": "Buenísimo, gracias profe!"
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2020-07-24T20:36:34",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2020-07-24T20:37:28",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": "genial profe!"
+  }
+ ]
+}
